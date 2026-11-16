@@ -1,0 +1,7 @@
+# Godot generated caches and platform builds
+.godot/
+.android/
+/android/
+*.tmp
+Thumbs.db
+.DS_Store
